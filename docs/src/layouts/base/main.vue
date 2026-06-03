@@ -204,7 +204,7 @@ const pageTurning = computed(() => {
       gap: 16px;
       margin-top: 32px;
       padding-top: 24px;
-      padding-bottom: 48px;
+      padding-bottom: 32px;
       border-top: 1px solid var(--ant-color-split, var(--ant-color-border));
 
       &-prev,
